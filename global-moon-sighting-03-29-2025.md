@@ -1,8 +1,4 @@
-Okay, here is the data presented in a single, organized Markdown table.
-
-================================================================================
 **GLOBAL MOON SIGHTING REPORT: 2025-03-29**
-================================================================================
 
 **Summary:** The lunar crescent is **NOT VISIBLE** in any major world region. This indicates the current Islamic month would likely continue worldwide.
 
